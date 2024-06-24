@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name":"Story Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 2,
+        "name":"Sports Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 3,
+        "name":"Music Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":200,
+        "category":"Food",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Edu Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":300,
+        "category":"Entertainment",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Story Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Sports Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":0,
+        "category":"Free",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 7,
+        "name":"Music Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":200,
+        "category":"Food",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+        "id": 8,
+        "name":"Edu Book",
+        "title": "lorem, ipsum dolor sit amet",
+        "price":300,
+        "category":"Entertainment",
+        "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    }
+]
